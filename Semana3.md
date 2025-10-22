@@ -112,7 +112,23 @@ Pasos realizados:
 
 <img width="1044" height="508" alt="image" src="https://github.com/user-attachments/assets/994ab7f2-fb78-4c35-a213-f5c8d884703d" />
 
+  - Editando temas desde la pag Principal
+  - <img width="1741" height="718" alt="image" src="https://github.com/user-attachments/assets/a04e322e-f007-4fc3-aaae-ff2cfcbcf533" />
+  RESULTADO:
+<img width="1218" height="714" alt="image" src="https://github.com/user-attachments/assets/4c718416-e905-47e0-9252-c4b3a5b11462" />
 
+   ##Dentro del editor
+   <img width="1456" height="743" alt="image" src="https://github.com/user-attachments/assets/9587514f-86c6-4577-8cf9-0c77a0b46014" />
+
+
+   - Uso de plugin Smart Slider para cambiar el el fondo del inicio
+    <img width="1481" height="847" alt="image" src="https://github.com/user-attachments/assets/b489a7bd-c7b2-4d12-ac4b-07b53a1d493d" />
+
+   - Posterior a eso se implemento una tienda virtual usando el plugin wocommerce
+
+   <img width="1331" height="790" alt="image" src="https://github.com/user-attachments/assets/f155ff83-6deb-4ec5-a557-50ad56b4d48e" />
+
+     
 - **Pruebas y visualización:**  
   Se visitó el sitio web en `http://localhost/PracClase/practica` para verificar cómo se veía la página creada y los cambios realizados en el diseño.
 <img width="1389" height="814" alt="image" src="https://github.com/user-attachments/assets/00b02c44-6fe9-4a69-bc9f-1ead1b99d05d" />
