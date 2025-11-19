@@ -653,8 +653,8 @@ footer {
     font-size: 12px;
 }
 
----
 
+```
 ## **5. Resultado final esperado**
 
 La página final se ve similar a:
