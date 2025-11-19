@@ -445,7 +445,7 @@ El proyecto contiene:
 ## **estilos.css**
 
 
-```html
+```css
 /* el body entero de la pag — aqui ponemos el color de fondo estilo steam
    y la fuente general de toda la pagina */
 body {
