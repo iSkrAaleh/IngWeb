@@ -22,13 +22,20 @@ El proyecto consiste en el rediseño completo de la página web de **Gráfica Sa
 * **PHP** para el manejo de compras, formularios y lógica del servidor
 * **MySQL** para almacenar productos, pedidos y datos de clientes
 
+## Integración en WordPress
+
+WordPress 6.x
+
+Tema / Template personalizado basado en el diseño HTML importado
+
+Plugins para tienda o pedidos (ej: WooCommerce todavia no se implementa el woocomerce)
+
 ## Páginas principales
 
-* **Inicio (index.html)** – Presentación general, banners y navegación
-* **Servicios** – Catálogo de servicios ofrecidos por la empresa
+* **Inicio (index.html)** – Presentación general, banners y navegació
 * **Productos** – Lista de productos disponibles para compra o pedido
 * **Carrito / Compras** – Gestión de pedidos y resumen
-* **Contacto** – Formulario para mensajes o requerimientos
+* **Contacto** – Apartado tipo footer con toda la informacion de contacto de la empresa
 
 ## Funcionalidades clave
 
