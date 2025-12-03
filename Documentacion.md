@@ -47,6 +47,6 @@ Plugins para tienda o pedidos (ej: WooCommerce todavia no se implementa el wooco
 
 ## Estructura del proyecto
 
-
+Aun no se termina de desarrollar por ende, la estructura principal del proyecto se la agregara posteriorente.
 
 ---
